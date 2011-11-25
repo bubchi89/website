@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+  <head>
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <title> rql's page </title>
+  </head>
+  <body>
+    <div id="page-container">
+      <div id="header">
+        <h1> Robert Liu </h1>
+      </div>
+
+      <!--#include virtual="header.html" -->
+
+      <div id="content">
+        <h2> Home </h2>
+        <p> 
+          My github page: 
+          <a href="http://github.com/bubchi89" title="robert's github">Here</a>
+        </p>
+        <p>
+          <b>Note:</b>
+          The resume links to a pdf of my (incorrect) solution to a problem
+          in a math logic course. I don't really want to link to my resume until
+          I've updated it or TeX'd it or something cooler.
+        </p>
+      </div>
+
+      <div id="footer">
+        <p>
+          This document last modified <!--#flastmod file="index.shtml" -->
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

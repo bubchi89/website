@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+  <head>
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+  </head>
+  <body>
+    <div id="page-container">
+      <div id="header">
+        <h1> Robert Liu </h1>
+      </div>
+
+      <!--#include virtual="header.html" -->
+
+      <div id="content">
+        <h2>About Me</h2>
+        <p>
+          I'm an undergrad at Carnegie Mellon doubling in Electrical and 
+          Computer Engineering and Computer Science. 
+          I'm heading to Microsoft next year to work on the Transmedia team 
+          (Xbox platform stuff).
+        </p>
+        <p>
+          Math is really great and I am constantly reminded about how much I
+          like it during class (the words "I love math" pop up pretty much every
+          time I learn a cool proof). I'm ~one semester away from graduating, 
+          and I'm terrified about what kind of person I'll be without school to
+          keep me straight. Here's to optimism...
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
