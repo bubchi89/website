@@ -5,6 +5,7 @@
   <head>
     <link rel="stylesheet" href="css/style.css" type="text/css">
   </head>
+
   <body>
     <div id="page-container">
       <div id="header">
@@ -27,6 +28,12 @@
           time I learn a cool proof). I'm ~one semester away from graduating, 
           and I'm terrified about what kind of person I'll be without school to
           keep me straight. Here's to optimism...
+        </p>
+      </div>
+
+      <div id="footer">
+        <p>
+          This document last modified <!--#flastmod file="index.shtml" -->
         </p>
       </div>
     </div>
